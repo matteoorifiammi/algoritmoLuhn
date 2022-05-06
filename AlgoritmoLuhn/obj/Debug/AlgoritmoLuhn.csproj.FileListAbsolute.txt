@@ -1,0 +1,7 @@
+E:\4F Orifiammi\AlgoritmoLuhn\bin\Debug\AlgoritmoLuhn.exe.config
+E:\4F Orifiammi\AlgoritmoLuhn\bin\Debug\AlgoritmoLuhn.exe
+E:\4F Orifiammi\AlgoritmoLuhn\bin\Debug\AlgoritmoLuhn.pdb
+E:\4F Orifiammi\AlgoritmoLuhn\obj\Debug\AlgoritmoLuhn.csproj.AssemblyReference.cache
+E:\4F Orifiammi\AlgoritmoLuhn\obj\Debug\AlgoritmoLuhn.csproj.CoreCompileInputs.cache
+E:\4F Orifiammi\AlgoritmoLuhn\obj\Debug\AlgoritmoLuhn.exe
+E:\4F Orifiammi\AlgoritmoLuhn\obj\Debug\AlgoritmoLuhn.pdb
